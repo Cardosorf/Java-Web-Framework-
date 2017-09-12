@@ -1,0 +1,2 @@
+0|turma 1|claudio|computacao 2
+1|turma 2|paulo|computacao 2

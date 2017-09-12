@@ -1,0 +1,2 @@
+0|claudio|1234555|teste2@teste.com
+1|paulo|111111|teste3@teste.com
